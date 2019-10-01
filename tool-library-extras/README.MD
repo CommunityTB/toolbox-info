@@ -18,3 +18,6 @@
 ### Seed the database
   * In your terminal, run the following command: 
     `psql -U ct-admin -d community-toolbox -f ./seeds/seed.tools.sql`
+    
+    #### Front end deployment at https://tool-library-client.jeaninehoffman.now.sh/
+    
