@@ -27,3 +27,4 @@ front end URL:https://toolbox-client-git-master.teamredpanda.now.sh/
 ## Environment Variables
 * File .env should be copied into the server's root folder (toolbox-server). This file contains variables related to our databases
 * File client-example.env should be copied into the client's folder (toolbox-client) and renamed to _.env_ The environment variable _REACT_APP_MAPS_API_KEY_ allows the app to embed a Google Map.
+
